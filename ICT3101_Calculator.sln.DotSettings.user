@@ -13,6 +13,7 @@
       &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAvailabilityFeature&lt;/TestId&gt;
       &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorBasicReliabilityFeature.CalculatingCurrentFailureIntenstiy&lt;/TestId&gt;
       &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDefectDensityFeature.CalculatingDefectDensityWhenDefect0&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorBasicReliabilityFeature.CalculatingAverageNumberOfExpectedFailures&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
     &lt;Category&gt;Addition&lt;/Category&gt;
     &lt;ProjectFolder&gt;1160DFF8-933E-4F29-969D-E46D6F781F20/d:Features&lt;/ProjectFolder&gt;

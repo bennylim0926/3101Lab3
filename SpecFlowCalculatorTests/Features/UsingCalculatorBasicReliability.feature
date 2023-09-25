@@ -15,4 +15,4 @@ Scenario: Calculating Current Failure Intenstiy
 Scenario: Calculating Average Number of Expected Failures
     Given I have a calculator
     When I have entered 100, 10 and 10 into the calculator and press average number of expected failures
-    Then the reliability result should be 63
+    Then the reliability result should be 63.21

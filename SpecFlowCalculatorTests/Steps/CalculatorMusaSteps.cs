@@ -31,6 +31,6 @@ public sealed class CalculatorMusaSteps
     [Then(@"the reliability result should be (.*)")]
     public void ThenReliabilityResultShouldBeOnTheScreen(double p0)
     {
-        Assert.That(_result,Is.EqualTo(p0));
+        Assert.That(Math.Round(_result,2),Is.EqualTo(p0));
     }
 }
