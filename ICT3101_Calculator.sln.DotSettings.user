@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.21/ref/net6.0/System.Net.Http.Json.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e28a9b99_002D452e_002D481d_002Db9f4_002D935e0f517176/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculatorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::2932CDA6-B4DA-48EA-85C1-51D6A4CE80A3::net6.0::ICT3101_Caculator.UnitTests.CalculatorTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.CalculatorFeature.AddTwoNumbers&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDivisionFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorFactorialFeature.FactorialWithMoreThan0&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorFactorialFeature.Factorial&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorAvailabilityFeature&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorBasicReliabilityFeature.CalculatingCurrentFailureIntenstiy&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::1160DFF8-933E-4F29-969D-E46D6F781F20::net6.0::SpecFlowCalculatorTests.Features.UsingCalculatorDefectDensityFeature.CalculatingDefectDensityWhenDefect0&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Category&gt;Addition&lt;/Category&gt;
+    &lt;ProjectFolder&gt;1160DFF8-933E-4F29-969D-E46D6F781F20/d:Features&lt;/ProjectFolder&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
