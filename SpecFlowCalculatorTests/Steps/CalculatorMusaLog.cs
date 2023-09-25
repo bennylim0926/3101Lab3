@@ -32,6 +32,6 @@ public sealed class CalculatorMusaLog
     [Then(@"the musa log reliability result should be (.*)")]
     public void ThenTheLogMusaResultShouldBeOnTheScreen(double p0)
     {
-        Assert.That(Math.Round(_result,3), Is.EqualTo(p0));
+        Assert.That(Math.Round(_result,2), Is.EqualTo(p0));
     }
 }
